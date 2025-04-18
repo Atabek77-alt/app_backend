@@ -1,0 +1,9 @@
+venv/
+.idea/
+__pycache__
+.env
+core/.env
+.idea/app_backend.iml
+.idea/misc.xml
+
+
