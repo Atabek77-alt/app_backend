@@ -1,6 +1,11 @@
-venv/
-.idea/
+/venv
+venv
+/idea
+.idea
+idea
 __pycache__
+__idea__
+/migrations
 .env
 core/.env
 .idea/app_backend.iml
