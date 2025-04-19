@@ -4,6 +4,8 @@ from .models import *
 @admin.register(UserProfile)
 class UserProfileAdmin(admin.ModelAdmin):
     list_display = ['user', 'bio']
+
+
 @admin.register(Product)
 class  ProductAdmin(admin.ModelAdmin):
     list_display = ['owner', 'title']
