@@ -1,6 +1,7 @@
 asgiref==3.8.1
 certifi==2025.1.31
 channels==4.2.2
+channels_redis==4.2.1
 charset-normalizer==3.4.1
 coreapi==2.3.3
 coreschema==0.0.4
@@ -12,6 +13,7 @@ inflection==0.5.1
 itypes==1.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.2
+msgpack==1.1.0
 packaging==24.2
 parts==2.1.0
 products==2.0.1
@@ -19,6 +21,7 @@ psycopg2-binary==2.9.10
 python-decouple==3.8
 pytz==2025.2
 PyYAML==6.0.2
+redis==5.2.1
 requests==2.32.3
 routing==0.2.0
 signals==0.0.2
